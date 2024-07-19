@@ -173,13 +173,7 @@ footer{
     border-radius: 0px;
     width: 250px;
 }
-.subscribe{
-    
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 
 .submit-btn-2{
     background-color: rgb(230, 165, 44);
